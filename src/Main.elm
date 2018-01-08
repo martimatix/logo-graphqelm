@@ -38,9 +38,9 @@ node cx cy fillColor =
     Svg.circle
         [ Svg.Attributes.cx (toString cx)
         , Svg.Attributes.cy (toString cy)
-        , r (toString 15)
+        , r (toString 20)
         , stroke "black"
-        , strokeWidth "7"
+        , strokeWidth "10"
         , fill fillColor
         ]
         []
@@ -49,9 +49,9 @@ node cx cy fillColor =
 edges : Svg msg
 edges =
     Svg.path
-        [ d "M 323.298 0 h -323.298 v 323.298 h 323.298 v -153.649 L 246 247"
+        [ d "M 323.298 0 h -323.298 v 323.298 h 323.298 v -152.649 L 246 247"
         , stroke "black"
-        , strokeWidth "10"
+        , strokeWidth "13"
         , fill "none"
         ]
         []
