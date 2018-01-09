@@ -11,7 +11,7 @@ main =
         [ version "1.1"
         , x "0"
         , y "0"
-        , viewBox "-30 -30 383.141 382.95"
+        , viewBox "-40 -40 403 403"
         ]
         paths
 
@@ -24,11 +24,11 @@ paths =
 nodes : Svg msg
 nodes =
     Svg.g []
-        [ node 323.298 0 "#60B5CC"
-        , node 0 0 "#7FD13B"
-        , node 0 323.298 "#5A6378"
-        , node 323.298 323.298 "#F0AD00"
-        , node 323.298 161.649 "#FFF"
+        [ node 329.298 -6 "#60B5CC"
+        , node -6 -6 "#7FD13B"
+        , node -6 329.298 "#5A6378"
+        , node 329.298 329.298 "#F0AD00"
+        , node 329.298 161.649 "#FFF"
         , node 246 246 "#E535AB"
         ]
 
@@ -49,9 +49,9 @@ node cx cy fillColor =
 edges : Svg msg
 edges =
     Svg.path
-        [ d "M 323.298 0 h -323.298 v 323.298 h 323.298 v -152.649 L 246 247"
+        [ d "M 329.298 -6 h -335.298 v 335.298 h 335.298 v -164.5 L 246 247"
         , stroke "black"
-        , strokeWidth "13"
+        , strokeWidth "12"
         , fill "none"
         ]
         []
