@@ -1,13 +1,5 @@
-# Elm project
+# Logo for Graphqelm
 
-## Getting started
+<img src="https://raw.githubusercontent.com/martimatix/logo-graphqelm/master/logo.svg" alt="graphqelm logo">
 
-You need to have [Elm](http://elm-lang.org/) 0.18 installed on your machine.
-
-Compile this project with:
-
-    elm make src/Main.elm
-
-Then view it:
-
-    elm reactor
+Looking for [Graphqelm](https://github.com/dillonkearns/graphqelm)?
