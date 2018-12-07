@@ -1,5 +1,5 @@
 # Logo for Graphqelm
 
-<img src="https://cdn.rawgit.com/martimatix/logo-graphqelm/master/logo.svg" alt="graphqelm logo">
+<img src="https://cdn.jsdelivr.net/gh/martimatix/logo-graphqelm/logo.svg" alt="graphqelm logo">
 
 Looking for [Graphqelm](https://github.com/dillonkearns/graphqelm)?
