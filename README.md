@@ -1,5 +1,5 @@
 # Logo for Graphqelm
 
-<img src="https://cdn.jsdelivr.net/gh/martimatix/logo-graphqelm/logo.svg" alt="graphqelm logo">
+![Elm Graphql Logo](https://cdn.jsdelivr.net/gh/martimatix/logo-graphqelm/logo.svg)
 
-Looking for [Graphqelm](https://github.com/dillonkearns/graphqelm)?
+Looking for [Elm Graphql](https://github.com/dillonkearns/elm-graphql)?
